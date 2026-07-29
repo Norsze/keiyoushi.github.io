@@ -33,23 +33,19 @@ features:
     linkText: "Get started"
 ---
 
-::::: warning Extension list says my app is outdated
-If you are seeing an empty extension list with the message "Outdated app", it means that your app is no longer compatible with our extensions.
-Keiyoushi only actively supports Mihon
+<div class="home-content">
 
-:::: tip {no-title}
+:::: warning Extension list says my app is outdated
+If you are seeing an empty extension list with the message "Outdated app", it means that your app is no longer compatible with our extensions.
+
+
 Keiyoushi only actively supports Mihon and its active [endorsed forks](https://mihon.app/forks/).
 
-::: danger Unsupported endorsed forks
-TachiyomiJ2K and Yokai are incompatible with our extensions due to inactivity.
-:::
+<br>
+
+  ::: details For Suwayomi
+  Suwayomi isn't compatible but v2.3.2243 should be able to view & access most of our extensions. Check with your app's support for any issues.
+  :::
+
 ::::
-
-::: tip {no-title}
-Make sure your app is compatible & up-to-date
-:::
-
-::: details Suwayomi
-Suwayomi isn't compatible but v2.3.2243 should be able to view & access most of our extensions. Check with your app's support for any issues.
-:::
-:::::
+</div>
