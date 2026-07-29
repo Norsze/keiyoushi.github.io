@@ -40,7 +40,7 @@ If you are seeing an empty extension list with the message "Outdated app" or all
 
 Keiyoushi only supports the following Android apps, anything else isn't supported so if it doesn't work, you are on your own:
 
-Mihon, TachiyomiSY, Komikku
+Mihon, TachiyomiSY and Komikku.
 
 # **Make sure your app is updated to the latest version!**
 
