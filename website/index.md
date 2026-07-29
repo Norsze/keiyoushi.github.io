@@ -35,9 +35,10 @@ features:
 
 <div class="home-content">
 
-:::: warning Extension list says my app is outdated
+:::: warning :warning: Extension list says my app is outdated
 If you are seeing an empty extension list with the message "Outdated app", it means that your app is no longer compatible with our extensions.
 
+# **Make sure your app is updated to the latest version!**
 
 Keiyoushi only actively supports Mihon and its active [endorsed forks](https://mihon.app/forks/).
 
