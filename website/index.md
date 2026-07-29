@@ -44,6 +44,12 @@ Keiyoushi only actively supports Mihon and its active [endorsed forks](https://m
 
 <br>
 
+  ::: details Regarding TachiyomiJ2K and Yokai
+  Yokai & J2K is incompatible with our updated extension due to development inactivity from respective app.
+  :::
+
+  <br>
+
   ::: details For Suwayomi
   Suwayomi isn't compatible but v2.3.2243 should be able to view & access most of our extensions. Check with your app's support for any issues.
   :::
